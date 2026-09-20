@@ -1,0 +1,33 @@
+{
+  "name": "Estadificación de melanoma cutáneo",
+  "short_name": "Estadificación MM",
+  "description": "Estadificación del melanoma cutáneo según la AJCC 8.ª edición, con recomendaciones de manejo de EADO 2024, ESMO 2024 y SEOM-GEM 2023.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#2E4032",
+  "categories": ["medical", "health", "education"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
