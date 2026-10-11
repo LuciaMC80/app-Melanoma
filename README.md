@@ -2,7 +2,8 @@
 
 Herramienta web de apoyo a la decisión clínica para estadificar el melanoma cutáneo
 según la **8.ª edición de la AJCC** y obtener las recomendaciones de manejo de las
-guías **EADO 2024** (partes 1 y 2), **ESMO 2024** y **SEOM-GEM 2023**. Cada
+guías **EADO 2024** (partes 1 y 2), **ESMO 2024**, **SEOM-GEM 2023** y **NCCN 3.2026**
+(National Comprehensive Cancer Network, septiembre de 2026). Cada
 recomendación indica la guía de la que procede y su nivel de evidencia.
 
 **Abrir la aplicación:** https://luciamc80.github.io/app-Melanoma/
@@ -51,6 +52,11 @@ certificado y no debe usarse como única base de una decisión asistencial.
 - Garbe C, et al. EADO/EDF/EORTC 2024, partes 1 y 2. *Eur J Cancer* 2025;215:115152 y 115153.
 - Amaral T, et al. ESMO Clinical Practice Guideline: cutaneous melanoma. *Ann Oncol* 2025;36:10-30.
 - Márquez-Rodas I, et al. SEOM-GEM 2023. *Clin Transl Oncol* 2024;26:2841-2855.
+- NCCN Clinical Practice Guidelines in Oncology: Melanoma: Cutaneous, versión 3.2026 (2 de septiembre
+  de 2026). Se recogen sus recomendaciones de práctica clínica (márgenes, ganglio centinela por riesgo,
+  manejo ganglionar y en tránsito, neoadyuvancia, adyuvancia, tratamiento del estadio IV, imagen y
+  seguimiento), redactadas de nuevo y sin reproducir sus algoritmos ni figuras. Consulte el documento
+  original en nccn.org.
 - AJCC Cancer Staging Manual, 8.ª edición.
 
 ## Contenido del repositorio
