@@ -19,6 +19,8 @@ metástasis, LDH y estado *BRAF*) la aplicación devuelve:
   motivo y la guía que lo respalda.
 - Recomendaciones de **cirugía del primario, manejo ganglionar y locorregional,
   estudio de extensión, tratamiento adyuvante o sistémico y seguimiento**.
+- **Selector de guía**: muestra las recomendaciones de todas las guías o sólo las de
+  EADO 2024, ESMO 2024, SEOM‑GEM 2023 o NCCN 3.2026.
 - **Resumen imprimible** del caso.
 
 ## Uso en el móvil
