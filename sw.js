@@ -3,7 +3,7 @@
    incrustados), así que basta con cachear ese archivo y los iconos de la PWA
    para que funcione sin conexión. */
 
-const VERSION = 'melanoma-v4';
+const VERSION = 'melanoma-v5';
 const ASSETS = [
   './',
   './index.html',
